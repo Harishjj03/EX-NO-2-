@@ -147,5 +147,7 @@ int main() {
 
 ## Output:
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/a7db8f3d-5b02-4d0f-9c27-afb315b4d2c4" />
+
 ## Result
+
 The Playfair Cipher program was executed successfully. The plaintext was encrypted into ciphertext using the given key.
