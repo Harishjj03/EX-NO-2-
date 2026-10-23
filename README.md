@@ -1,4 +1,4 @@
-<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/d264bb36-2a2c-47ac-bc2b-0cdc4c239717" />## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
+## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
  
 
