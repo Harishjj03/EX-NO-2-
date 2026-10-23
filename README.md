@@ -27,6 +27,7 @@ To encrypt a message, one would break the message into digrams (groups of 2 lett
 
 ## ALGORITHM:
 
+
 STEP-1: Read the plain text from the user.
 STEP-2: Read the keyword from the user.
 STEP-3: Arrange the keyword without duplicates in a 5*5 matrix in the row order and fill the remaining cells with missed out letters in alphabetical order. Note that ‘i’ and ‘j’ takes the same cell.
